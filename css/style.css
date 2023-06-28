@@ -1,0 +1,21 @@
+* {padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+.head{
+	text-align:center;
+	padding:30px 50px;
+}
+#para1 {
+	color:#c22f3d;
+	line-height:30px;
+	text-indent:50px;
+	text-decoration-style:double;
+
+}
+#para2 {
+	word-spacing:5px;
+	letter-spacing:5px;
+	padding-top:50px;
+	text-transform:uppercase;
+}
